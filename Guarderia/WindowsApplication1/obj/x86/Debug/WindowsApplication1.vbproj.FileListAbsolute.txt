@@ -1,0 +1,531 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\estudiante9\Documents\Visual Studio 2010\Projects\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\BD2\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\BD2\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\BD2\proyecto 22-06-14\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Administrador\Escritorio\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Administrador\Escritorio\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Administrador\Escritorio\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+L:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+L:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+L:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+H:\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\BASEDEDATOS PROYECTO\proyecto Modificacion grafica27-7-14\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form27.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form14.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form15.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form16.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form17.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form18.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form19.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form20.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form21.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form22.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form23.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form24.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form25.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form26.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form27.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\BD2\proyecto Modificacion grafica\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

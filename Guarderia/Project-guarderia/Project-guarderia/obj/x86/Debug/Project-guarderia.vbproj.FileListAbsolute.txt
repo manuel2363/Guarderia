@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\bin\Debug\Project-guarderia.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\bin\Debug\Project-guarderia.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\bin\Debug\Project-guarderia.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project_guarderia.Form1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project_guarderia.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project-guarderia.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project-guarderia.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project-guarderia.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project_guarderia.Form2.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Project-guarderia\obj\x86\Debug\Project_guarderia.Form3.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\bin\Debug\Project-guarderia.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\bin\Debug\Project-guarderia.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\bin\Debug\Project-guarderia.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form1.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form2.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form3.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Resources.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form4.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form5.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form6.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form7.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Project-guarderia\Project-guarderia\obj\x86\Debug\Project_guarderia.Form8.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.pdb
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.exe
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.xml
+H:\Project\WindowsApplication1 (1)\WindowsApplication1\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.pdb
+C:\Documents and Settings\Administrador\Escritorio\proyecto Modificacion grafica\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.exe
+C:\Documents and Settings\Administrador\Escritorio\proyecto Modificacion grafica\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.xml
+C:\Documents and Settings\Administrador\Escritorio\proyecto Modificacion grafica\Project-guarderia\Project-guarderia\obj\x86\Debug\Project-guarderia.pdb
